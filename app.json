@@ -9,6 +9,27 @@
     "RPC_SERVER": {
       "description": "RPC URL of your blockchain node.",
       "value": "http://127.0.0.1:8545"
+    },
+    "NETWORK_SYMBOL": {
+      "description": "NETWORK_SYMBOL.",
+      "value": "ETH"
+    },
+    "APN_KEY": {
+      "description": "APN_KEY.",
+      "value": "APN_KEY"
+    },
+     "APN_KEYID": {
+      "description": "APN_KEYID.",
+      "value": "APN_KEYID"
+    },
+     "APN_TEAMID": {
+      "description": "APN_TEAMID.",
+      "value": "APN_TEAMID"
+    },
+    "APN_BUNDLEID": {
+      "description": "APN_BUNDLEID.",
+      "value": "APN_BUNDLEID"
     }
+    
   }
 }
