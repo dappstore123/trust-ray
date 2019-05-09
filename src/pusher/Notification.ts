@@ -20,7 +20,7 @@ export class Notification {
                 keyId: config.get("PUSHER.APN.KEYID"),
                 teamId: config.get("PUSHER.APN.TEAMID"),
             },
-            production: true
+            production: false
         }
     }
 
